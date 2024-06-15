@@ -1,0 +1,14 @@
+Pandas DataFrame Reference (keywords and command):-
+
+1.   .abs() = return the negative into positive number
+2.   .add() = add any number or value to the data
+3.   .add_prefix() = add heading(name or word) to the column heading
+                           ex:- person_
+4.   .add_suffix() = same like prefix but add at the last 
+                           ex:- _data
+5.   .agg() or aggregate() = allows you to apply a function like add, you have to written the function in the bracket.
+6.   .all() = returns true if both are true in the given data other if one is false then the output will be false too.
+7.   .any() = returns true if any of the values in the data are true, otherwise false.
+8.   .applymap() = it work as a apply method where in the bracket you can modify any variable and apply any                                                                           function.
+9.    .apply() = also same like .applymap()
+10.  
